@@ -17,5 +17,5 @@ pip install PyInstaller
 Création du package
 
 ``` bash
-pyinstaller --noconfirm .\javaversionsinpector.spec
+pyinstaller --noconfirm .\JavaVersionsInpector.spec
 ```
